@@ -71,9 +71,9 @@ $table_prefix = 'wp_';
  * 将这个值改为true，WordPress将显示所有用于开发的提示。
  * 强烈建议插件开发者在开发环境中启用WP_DEBUG。
  *
- * 要获取其他能用于调试的信息，请访问Codex。
+ * 要获取其他能用于调试的信息，请访问文档。
  *
- * @link https://codex.wordpress.org/Debugging_in_WordPress
+ * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
 define('WP_DEBUG', false);
 
